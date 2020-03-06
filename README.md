@@ -1,2 +1,3 @@
-# DataScience_Repo-beta-
-Notebooks para comenzar desde cero en data science (en español)
+# Repositorio con notebooks para Data Science (beta)
+
+Primero que todo quiero agradecer por estar aquí!
