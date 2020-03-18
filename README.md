@@ -16,3 +16,8 @@ También en el repositorio tienes un "Notebook" con una introducción a Jupyter 
 5. Sabes programar en python y has utilizado las librerías numpy/pandas y algunas de visualización, pero ¿no sabes como hacer data science? Entonces comienza aquí: 01_03_Introduccion a Data Science_Proceso y repaso.ipynb
 
 En cualquier otro caso, sientete en libertad de revisar los módulos como quieras :)
+
+
+Sé que aprender es un proceso iterativo, donde nacen frustraciones y dudas, por este motivo he creado un canal cooperativo que puedes unirte hoy mismo aquí: https://join.slack.com/t/datasciencebetagrupo/shared_invite/zt-cmfd4c2e-2WqscSvs_f6b8WzBiR3CUw
+
+El objetivo principal es que no te quedes con la duda! Comenta en el canal y bueno si puedes responder las dudas de los demás, genial !!
